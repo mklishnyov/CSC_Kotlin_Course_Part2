@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="currentTranslationLanguage" value="Russian" />
+    <option name="structureTranslation">
+      <map>
+        <entry key="Russian">
+          <value>
+            <map>
+              <entry key="1034318055" value="Проект тренировки памяти  " />
+              <entry key="1081106437" value="Смелый новый мир  " />
+              <entry key="1089941254" value="Проект Codenames - Данные карточки  " />
+              <entry key="1095298523" value="Опрос" />
+              <entry key="1096807938" value="Проект Memory Trainer - Модель карточки  " />
+              <entry key="112732984" value="Проект Codenames - Тип ключевой карточки  " />
+              <entry key="1130187306" value="Word Generator Project - Как запустить" />
+              <entry key="1162498861" value="Alias Project - Константы и функции расширения" />
+              <entry key="1247951306" value="Word Generator Project - Введение" />
+              <entry key="1332363990" value="Alias Project - Классы данных" />
+              <entry key="1333495904" value="Проект Codenames - Генератор ключевых карточек  " />
+              <entry key="1406965141" value="Проект Codenames - Интерфейсы и наследование  " />
+              <entry key="1424731246" value="Alias Project - Аннотации и классы значений" />
+              <entry key="1471451877" value="Alias Project - Закончить игру" />
+              <entry key="1523237429" value="Codenames Project - Как запустить" />
+              <entry key="1532983838" value="введение  " />
+              <entry key="1534568828" value="Генератор слов  " />
+              <entry key="1569405567" value="Codenames Project - Инициализационные блоки" />
+              <entry key="1609028519" value="Word Generator Project - Завершить игру" />
+              <entry key="1640803251" value="Проект Memory Trainer - Генератор последовательности карточек  " />
+              <entry key="1654026416" value="Alias Project - Команды" />
+              <entry key="173021464" value="Alias Project - Сервис карты" />
+              <entry key="1808361974" value="Alias Project - Как запустить" />
+              <entry key="1826387976" value="Проект Memory Trainer - Как запустить  " />
+              <entry key="1831801481" value="Проект Codenames - Карточка  " />
+              <entry key="1867251728" value="Alias Project - Создать утилиты" />
+              <entry key="1933501778" value="Word Generator Project - Сервис команды" />
+              <entry key="1955972196" value="Проект Codenames - Сервис ключевых карточек  " />
+              <entry key="2045941477" value="Проект Memory Trainer - Введение  " />
+              <entry key="207903953" value="Проект Memory Trainer - Сервис карточек  " />
+              <entry key="23870911" value="Word Generator Project - Валидаторы сервиса слов" />
+              <entry key="321632145" value="Опрос обратной связи" />
+              <entry key="394992839" value="Alias Project - Компаньоны" />
+              <entry key="40149330" value="Проект Codenames - SAM интерфейсы  " />
+              <entry key="407421606" value="Alias Project - Изменяемая карта" />
+              <entry key="451797165" value="Alias Project - Классы и псевдонимы типов" />
+              <entry key="457834256" value="Alias Project - Карты" />
+              <entry key="55659744" value="Alias Project - Изменяемый список" />
+              <entry key="58157421" value="Проект Memory Trainer - Завершить игру  " />
+              <entry key="623517639" value="Alias Project - Введение" />
+              <entry key="684273302" value="Word Generator Project - Слово и сервис слов" />
+              <entry key="725572770" value="Kotlin Введение - Добро пожаловать!" />
+              <entry key="806214430" value="Word Generator Project - Команды" />
+              <entry key="859031761" value="Проект Codenames - Генератор уникальных ключевых карточек  " />
+              <entry key="8656620" value="Кодовые имена  " />
+              <entry key="86593419" value="Alias Project - Сервис команды" />
+              <entry key="924415411" value="Codenames Project - Перечисления" />
+              <entry key="927161772" value="Проект Codenames - Завершить игру  " />
+              <entry key="984318234" value="Codenames Project - Введение" />
+              <entry key="985850465" value="Alias Project - Пакеты" />
+              <entry key="995021701" value="Codenames Project - Утилиты" />
+              <entry key="995182624" value="Codenames Project - Объекты" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Russian" value="174" />
+      </map>
+    </option>
+  </component>
+</project>
