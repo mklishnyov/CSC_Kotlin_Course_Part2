@@ -6,11 +6,13 @@ import org.springframework.stereotype.Service
 
 @Service
 class TeamService {
-    val identifierFactory: IdentifierFactory = IdentifierFactory(0)
+    val identifierFactory: IdentifierFactory = IdentifierFactory()
     companion object {
         val teamsStorage: MutableMap<Identifier, Team> = mutableMapOf()
     }
     fun generateTeamsForOneRound(teamsNumber: Int): List<Team> {
-        
+        val teams = List(teamsNumber) { Team(identifierFactory.uniqueIdentifier()) }
+        teams.forEach { teamsStorage.putIfAbsent(it.id, it) }
+        return teams
     }
 }

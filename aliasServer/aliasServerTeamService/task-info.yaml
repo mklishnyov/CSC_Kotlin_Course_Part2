@@ -128,5 +128,8 @@ files:
   - name: src/main/resources/static/static/css/main.242c9780.css.map
     visible: false
     learner_created: false
-status: Unchecked
+status: Failed
+feedback:
+  message: Compilation Failed
+  time: "Mon, 01 Sep 2025 18:34:00 UTC"
 record: 10
