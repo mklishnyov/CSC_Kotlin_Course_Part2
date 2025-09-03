@@ -1,3 +1,4 @@
+// TeamModel.kt
 package jetbrains.kotlin.course.alias.team
 
 import jetbrains.kotlin.course.alias.util.Identifier
